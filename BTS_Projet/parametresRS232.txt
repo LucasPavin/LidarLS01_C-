@@ -1,0 +1,4 @@
+nomPortCOM = COM5
+vitBau = 230400
+donnees = 8
+stop = 1

@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1623852956 source:c:\users\lucaspvn\desktop\projet\bts_projet\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<thread>
+	"serialib.h"
+	<fstream>
+	<map>
+
+1617701223 c:\users\lucaspvn\desktop\projet\bts_projet\serialib.h
+	<sys/time.h>
+	<windows.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/shm.h>
+	<termios.h>
+	<string.h>
+	<iostream>
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+
+1617705695 source:c:\users\lucaspvn\desktop\projet\bts_projet\serialib.cpp
+	"serialib.h"
+
+1623852956 source:c:\users\lucaspvn\desktop\projet_bts\projet\bts_projet\main.cpp
+	<iostream>
+	<string>
+	<stdio.h>
+	<thread>
+	"serialib.h"
+	<fstream>
+	<map>
+
+1617701223 c:\users\lucaspvn\desktop\projet_bts\projet\bts_projet\serialib.h
+	<sys/time.h>
+	<windows.h>
+	<stdlib.h>
+	<sys/types.h>
+	<sys/shm.h>
+	<termios.h>
+	<string.h>
+	<iostream>
+	<fcntl.h>
+	<unistd.h>
+	<sys/ioctl.h>
+
+1617705695 source:c:\users\lucaspvn\desktop\projet_bts\projet\bts_projet\serialib.cpp
+	"serialib.h"
+
